@@ -1,6 +1,6 @@
 import Counter from './Components/Counter';
 import Greeting from './components/Greeting';
-import Photocard from '/components/Photocard'
+import Photocard from '/components/Photocard';
 import './App.css';
 
 function App() {
